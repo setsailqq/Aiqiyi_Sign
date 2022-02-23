@@ -7,7 +7,7 @@
 > 项目地址：[Aiqiyi_Sign](https://github.com/ioutime/Aiqiyi_Sign)
 
 
-## 脚本功能：
+## 脚本功能：mm 
 
 1. 登录爱奇艺,cookie（需要手动获取）
 2. 支持爱奇艺会员**签到**打卡，每日三次**抽奖**，并显示今日成长值，vip到期时间等
